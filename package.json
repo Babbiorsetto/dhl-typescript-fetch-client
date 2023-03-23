@@ -1,6 +1,6 @@
 {
   "name": "@babbiorsetto/dhl-typescript-fetch-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client for the DHL Express API auto-generated from the OpenAPI definition",
   "main": "index.js",
   "types": "index.d.ts",
