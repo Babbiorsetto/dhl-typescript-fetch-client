@@ -10,5 +10,13 @@
   "author": {
     "name": "Alessandro Rubino"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "^2.6.9"
+  }
 }

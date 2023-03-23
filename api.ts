@@ -13,7 +13,7 @@
  */
 
 import * as url from "url";
-import * as isomorphicFetch from "isomorphic-fetch";
+import isomorphicFetch, {Response} from "node-fetch";
 import { Configuration } from "./configuration";
 
 const BASE_PATH = "https://api-mock.dhl.com/mydhlapi".replace(/\/+$/, "");
