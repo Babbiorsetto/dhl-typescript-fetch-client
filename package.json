@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Client for the DHL Express API auto-generated from the OpenAPI definition",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
