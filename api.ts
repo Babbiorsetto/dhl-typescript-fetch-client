@@ -5660,7 +5660,7 @@ export interface SupermodelIoLogisticsExpressProducts {
      * @type {Array<SupermodelIoLogisticsExpressProductsProducts>}
      * @memberof SupermodelIoLogisticsExpressProducts
      */
-    products: Array<SupermodelIoLogisticsExpressProductsProducts>;
+    products?: Array<SupermodelIoLogisticsExpressProductsProducts>;
     /**
      * 
      * @type {Array<string>}
@@ -6281,7 +6281,7 @@ export interface SupermodelIoLogisticsExpressRates {
      * @type {Array<SupermodelIoLogisticsExpressRatesProducts>}
      * @memberof SupermodelIoLogisticsExpressRates
      */
-    products: Array<SupermodelIoLogisticsExpressRatesProducts>;
+    products?: Array<SupermodelIoLogisticsExpressRatesProducts>;
     /**
      * 
      * @type {Array<SupermodelIoLogisticsExpressRatesExchangeRates>}
